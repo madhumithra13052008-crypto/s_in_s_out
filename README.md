@@ -75,6 +75,7 @@ endmodule
 <img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/a0cc6bd9-da3e-45c2-8829-5445a3ca842d" />
 
 
+
 **RESULTS**
 Thus the SISO Shift Register using verilog is validated and the logic diagrams are designedd the truth table is verified.
 
